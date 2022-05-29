@@ -6,6 +6,6 @@
 <h3>3.全球服务器部署，稳定快捷</h3>
 免费VPN加速器内置多个国家的线路选择，每个国家又部署了不同的服务器，基于全球的服务器网络，连接速度及稳定有充分保障，无限带宽，无任何网络节流。
 <br><br><br>
-<a href='https://github.com/baiduvpn/FreeVPN'>Android下载</a><br><br>
-<a href='https://github.com/baiduvpn/FreeVPN'>Windows下载</a><br><br>
-<a href='https://github.com/baiduvpn/FreeVPN'>Mac下载</a>    
+<a href='https://raw.githubusercontent.com/baiduvpn/FreeVPN/main/%E5%85%8D%E8%B4%B9VPN%E5%8A%A0%E9%80%9F%E5%99%A8(%E5%AE%89%E5%8D%93%E7%89%88).apk'>安卓版下载</a><br><br>
+<a href='https://raw.githubusercontent.com/baiduvpn/FreeVPN/main/%E5%85%8D%E8%B4%B9VPN%E5%8A%A0%E9%80%9F%E5%99%A8(Windows%E7%89%88).exe'>Windows版下载</a><br><br>
+<a href='https://raw.githubusercontent.com/baiduvpn/FreeVPN/main/%E5%85%8D%E8%B4%B9VPN%E5%8A%A0%E9%80%9F%E5%99%A8(Mac%E7%89%88).zip'>Mac版下载</a>    
